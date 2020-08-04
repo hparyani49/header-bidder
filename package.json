@@ -1,8 +1,8 @@
 {
-  "name": "client-header-bidder",
+  "name": "header-bidder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hparyani49.github.io/headerBidder",
+  "homepage": "http://hparyani49.github.io/header-bidder",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
