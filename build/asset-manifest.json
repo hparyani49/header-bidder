@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/headerBidder/static/css/main.ba68c624.chunk.css",
+    "main.js": "/headerBidder/static/js/main.e496f251.chunk.js",
+    "main.js.map": "/headerBidder/static/js/main.e496f251.chunk.js.map",
+    "runtime-main.js": "/headerBidder/static/js/runtime-main.1379495c.js",
+    "runtime-main.js.map": "/headerBidder/static/js/runtime-main.1379495c.js.map",
+    "static/js/2.766b56cf.chunk.js": "/headerBidder/static/js/2.766b56cf.chunk.js",
+    "static/js/2.766b56cf.chunk.js.map": "/headerBidder/static/js/2.766b56cf.chunk.js.map",
+    "index.html": "/headerBidder/index.html",
+    "precache-manifest.59b189710173e5c53b2e755416e40328.js": "/headerBidder/precache-manifest.59b189710173e5c53b2e755416e40328.js",
+    "service-worker.js": "/headerBidder/service-worker.js",
+    "static/css/main.ba68c624.chunk.css.map": "/headerBidder/static/css/main.ba68c624.chunk.css.map",
+    "static/js/2.766b56cf.chunk.js.LICENSE.txt": "/headerBidder/static/js/2.766b56cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1379495c.js",
+    "static/js/2.766b56cf.chunk.js",
+    "static/css/main.ba68c624.chunk.css",
+    "static/js/main.e496f251.chunk.js"
+  ]
+}
