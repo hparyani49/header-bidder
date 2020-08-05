@@ -3,7 +3,7 @@
   const _BIDDERS = [1, 2, 3, 4, 5];
   var bids = [];
   const getBid = (bidderId) => {
-    fetch(`http://18.219.5.251/api/getBids?bidderId=${bidderId}&size=400,100`)
+    fetch(`http://localhost:5000/api/getBids?bidderId=${bidderId}&size=400,100`)
       .then(res => {
         if (res) {
           return res.json()
